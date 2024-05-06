@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Spotify**
 
-- 🌱 I’m currently learning **MERN, Next.js, Unity, C#, C++ (STL), Unreal Engine**
+- 🌱 I’m currently learning **MERN, Next.js, Unity, C#, C++ (STL), Unreal Engine, Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
