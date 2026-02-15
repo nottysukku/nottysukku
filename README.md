@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **C, C++**
 
-- 📫 How to reach me **sukritchopra2003@gmail.com**
-
 - ⚡ Fun fact **I'm a fast learner!**
 
 
